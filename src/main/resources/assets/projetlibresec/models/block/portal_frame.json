@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "projetlibresec:block/mainportalblock",
+    "particle": "projetlibresec:block/mainportalblock"
+  },
+  "render_type": "solid"
+}

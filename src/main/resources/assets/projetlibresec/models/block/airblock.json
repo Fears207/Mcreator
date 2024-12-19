@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "projetlibresec:block/for-anyone-looking-for-the-end-portal-texture-v0-8hndyng4homb1",
+    "up": "projetlibresec:block/for-anyone-looking-for-the-end-portal-texture-v0-8hndyng4homb1",
+    "north": "projetlibresec:block/for-anyone-looking-for-the-end-portal-texture-v0-8hndyng4homb1",
+    "east": "projetlibresec:block/for-anyone-looking-for-the-end-portal-texture-v0-8hndyng4homb1",
+    "south": "projetlibresec:block/for-anyone-looking-for-the-end-portal-texture-v0-8hndyng4homb1",
+    "west": "projetlibresec:block/for-anyone-looking-for-the-end-portal-texture-v0-8hndyng4homb1",
+    "particle": "projetlibresec:block/for-anyone-looking-for-the-end-portal-texture-v0-8hndyng4homb1"
+  },
+  "render_type": "translucent"
+}
